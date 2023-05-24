@@ -1,5 +1,8 @@
 _repo: Sea-life-in-Nelson-s-time_70699
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70699-h/images/cover.jpg
 creator:
   author:
     agent_name: Masefield, John
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/582
     wikipedia: https://en.wikipedia.org/wiki/John_Masefield
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70699#Sea-life-in-Nelson-s-time
 gutenberg_issued: '2023-05-04'
 identifiers:
   gutenberg: '70699'
